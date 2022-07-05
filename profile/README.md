@@ -1,7 +1,15 @@
 # baiziyu-personal-product
 
-## Project
+## 毕业设计
 
-### [🥇西安邮电大学研究生奖学金项目前端部分（`React` + `TypeScript`）](https://github.com/baiziyu-personal-product/xupt-scholarship-fe)
+### 西安邮电大学研究生奖学金项目
 
-### [📜西安邮电大学研究生奖学金项目后端部分（`Go` + `Iris`）](https://github.com/baiziyu-personal-product/xupt-scholarship)
+#### 项目代码
+
+- [🥇西安邮电大学研究生奖学金项目前端部分（`React` + `TypeScript`）](https://github.com/baiziyu-personal-product/xupt-scholarship-fe)
+
+- [📜西安邮电大学研究生奖学金项目后端部分（`Go` + `Iris`）](https://github.com/baiziyu-personal-product/xupt-scholarship)
+
+#### 项目描述
+
+[飞书文档](https://zeykohfqfv.feishu.cn/wiki/wikcnYmRLrjV3biOyYI8kzjemTh)
