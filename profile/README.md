@@ -12,4 +12,5 @@
 
 #### 项目描述
 
-[飞书文档](https://zeykohfqfv.feishu.cn/wiki/wikcnYmRLrjV3biOyYI8kzjemTh)
+- [飞书文档 项目基本信息](https://zeykohfqfv.feishu.cn/wiki/wikcnYmRLrjV3biOyYI8kzjemTh)
+- [论文以及报告](https://github.com/baiziyu-personal-product/docs)
