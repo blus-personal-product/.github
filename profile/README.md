@@ -1,4 +1,4 @@
-# baiziyu-personal-product
+# blus-personal-product
 
 ## 毕业设计
 
